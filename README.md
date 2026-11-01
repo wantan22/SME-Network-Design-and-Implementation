@@ -70,15 +70,13 @@ ISP(config)# ip route 192.168.0.0 255.255.0.0 209.165.200.225
 SME Network Design and Implementation/
 ├── Network Simulation.pkt
 ├── Presentation Slide.pptx
-├── Report PDF Version.pdf
-└── Report Word Version.docx
+└── Report PDF Version.pdf
 ```
 
 | File | Description |
 |---|---|
 | `Network Simulation.pkt` | Cisco Packet Tracer simulation file |
 | `Report PDF Version.pdf` | Full project report (PDF): requirements, design, configs, testing, troubleshooting |
-| `Report Word Version.docx` | Editable Word version of the report |
 | `Presentation Slide.pptx` | Presentation slides |
 
 ## Getting Started
